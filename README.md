@@ -52,12 +52,12 @@ Enter the required information
 - Error handling
 - File I/O
 <li>Working with REST APIs</li>
-<li>GET requests with query parameters</li>
-<li>Handling API keys in headers</li>
-<li>Pagination and stopping conditions</li>
+- GET requests with query parameters
+- Handling API keys in headers
+- Pagination and stopping conditions
 <li>Error handling</li>
-<li>Understanding HTTP status codes (200, 403, 429)</li>
-<li>Preventing crashes when data is missing</li>
+- Understanding HTTP status codes (200, 403, 429)
+- Preventing crashes when data is missing
 <li>File I/O</li>
 <li>Writing CSV files</li>
 <li>Creating and filling folders for drafts</li>
