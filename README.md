@@ -48,14 +48,17 @@ Enter the required information
 <li></li>
 
 ## What I Learned
-<li>- Working with REST APIs</li>
+- Working with REST APIs
+- Error handling
+- File I/O
+<li>Working with REST APIs</li>
 <li>GET requests with query parameters</li>
 <li>Handling API keys in headers</li>
 <li>Pagination and stopping conditions</li>
-<li>- Error handling</li>
+<li>Error handling</li>
 <li>Understanding HTTP status codes (200, 403, 429)</li>
 <li>Preventing crashes when data is missing</li>
-<li>- File I/O</li>
+<li>File I/O</li>
 <li>Writing CSV files</li>
 <li>Creating and filling folders for drafts</li>
 <li>- Sending email with Python</li>
