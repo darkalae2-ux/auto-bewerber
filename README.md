@@ -39,7 +39,7 @@ Enter the required information
 - Location (e.g., Berlin, BE, NW)
 - Search term (e.g., Informatiker, Mechatroniker)
 
-**What happens next**
+## What happens next
 <li>The script searches both APIs one after the other.</li>
 <li>All results are saved to bwb.csv.</li>
 <li>For every email address found, a draft is created in the drafts/ folder.</li>
@@ -47,7 +47,7 @@ Enter the required information
 <li>If you confirm, each draft is displayed; you decide individually whether to send it.</li>
 <li></li>
 
-**What I Learned**
+## What I Learned
 <li>- Working with REST APIs</li>
 <li>GET requests with query parameters</li>
 <li>Handling API keys in headers</li>
@@ -67,14 +67,14 @@ Enter the required information
 <li>Reusable functions</li>
 <li>Separation of search, saving, and sending</li>
 
-**Future Improvements**
+## Future Improvements
 <li>Add a GUI with Tkinter for a more user-friendly experience</li>
 <li>Excel export with formatting</li>
 <li>Automatically extract email addresses from job postings</li>
 <li>Implement logging for better traceability</li>
 <li>Create a configuration file for templates and sender details</li>
 
-**Disclaimer**
+## Disclaimer
 This project is for learning purposes only. The APIs of the Bundesagentur für Arbeit are publicly accessible, but their use is subject to their terms. Please handle the data responsibly.
 
    
