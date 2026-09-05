@@ -30,9 +30,9 @@ A Python script that automatically searches for apprenticeship positions and tra
    ```bash
    git clone https://github.com/yourusername/ausbildung-scraper.git
    cd ausbildung-scraper
----
 
-**Usage**
+
+## Usage
 Run the script: python script.py
 
 Enter the required information
@@ -48,31 +48,31 @@ Enter the required information
 <li></li>
 
 **What I Learned**
-<li>**Working with REST APIs**</li>
+<li>- Working with REST APIs</li>
 <li>GET requests with query parameters</li>
 <li>Handling API keys in headers</li>
 <li>Pagination and stopping conditions</li>
-<li>Error handling</li>
-<li>- Understanding HTTP status codes (200, 403, 429)</li>
+<li>- Error handling</li>
+<li>Understanding HTTP status codes (200, 403, 429)</li>
 <li>Preventing crashes when data is missing</li>
-<li>File I/O</li>
+<li>- File I/O</li>
 <li>Writing CSV files</li>
 <li>Creating and filling folders for drafts</li>
-<li>Sending email with Python</li>
+<li>- Sending email with Python</li>
 <li>SMTP with Gmail and app password</li>
 <li>MIMEText for simple text emails</li>
-<li>Security</li>
+<li>- Security</li>
 <li>Moving credentials out of the code into .env</li>
-<li>Project structure</li>
+<li>- Project structure</li>
 <li>Reusable functions</li>
 <li>Separation of search, saving, and sending</li>
 
 **Future Improvements**
-Add a GUI with Tkinter for a more user-friendly experience
-Excel export with formatting
-Automatically extract email addresses from job postings
-Implement logging for better traceability
-Create a configuration file for templates and sender details
+<li>Add a GUI with Tkinter for a more user-friendly experience</li>
+<li>Excel export with formatting</li>
+<li>Automatically extract email addresses from job postings</li>
+<li>Implement logging for better traceability</li>
+<li>Create a configuration file for templates and sender details</li>
 
 **Disclaimer**
 This project is for learning purposes only. The APIs of the Bundesagentur für Arbeit are publicly accessible, but their use is subject to their terms. Please handle the data responsibly.
