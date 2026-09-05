@@ -40,11 +40,11 @@ Enter the required information
 - Search term (e.g., Informatiker, Mechatroniker)
 
 **What happens next**
-The script searches both APIs one after the other.
-All results are saved to bwb.csv.
-For every email address found, a draft is created in the drafts/ folder.
-The script asks if you want to send the emails.
-If you confirm, each draft is displayed; you decide individually whether to send it.
+<li>The script searches both APIs one after the other.</li>
+<li>All results are saved to bwb.csv.</li>
+<li>For every email address found, a draft is created in the drafts/ folder.</li>
+<li>The script asks if you want to send the emails.</li>
+<li>If you confirm, each draft is displayed; you decide individually whether to send it.</li>
 
 
 **What I Learned**
