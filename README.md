@@ -45,27 +45,27 @@ Enter the required information
 <li>For every email address found, a draft is created in the drafts/ folder.</li>
 <li>The script asks if you want to send the emails.</li>
 <li>If you confirm, each draft is displayed; you decide individually whether to send it.</li>
-
+<li></li>
 
 **What I Learned**
-• Working with REST APIs
-• GET requests with query parameters
-• Handling API keys in headers
-Pagination and stopping conditions
-Error handling
-Understanding HTTP status codes (200, 403, 429)
-Preventing crashes when data is missing
-File I/O
-Writing CSV files
-Creating and filling folders for drafts
-Sending email with Python
-SMTP with Gmail and app password
-MIMEText for simple text emails
-Security
-Moving credentials out of the code into .env
-Project structure
-Reusable functions
-Separation of search, saving, and sending
+<li>Working with REST APIs</li>
+<li>• GET requests with query parameters</li>
+<li>• Handling API keys in headers</li>
+<li>•Pagination and stopping conditions</li>
+<li>Error handling</li>
+<li>•Understanding HTTP status codes (200, 403, 429)</li>
+<li>•Preventing crashes when data is missing</li>
+<li>File I/O</li>
+<li>•Writing CSV files</li>
+<li>•Creating and filling folders for drafts</li>
+<li>Sending email with Python</li>
+<li>•SMTP with Gmail and app password</li>
+<li>•MIMEText for simple text emails</li>
+<li>Security</li>
+<li>•Moving credentials out of the code into .env</li>
+<li>Project structure</li>
+<li>•Reusable functions</li>
+<li>•Separation of search, saving, and sending</li>
 
 **Future Improvements**
 Add a GUI with Tkinter for a more user-friendly experience
