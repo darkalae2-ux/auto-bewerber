@@ -48,27 +48,13 @@ Enter the required information
 <li></li>
 
 ## What I Learned
-- Working with REST APIs
-- Error handling
-- File I/O
-<li>Working with REST APIs</li>
-- GET requests with query parameters
-- Handling API keys in headers
-- Pagination and stopping conditions
-<li>Error handling</li>
-- Understanding HTTP status codes (200, 403, 429)
-- Preventing crashes when data is missing
-<li>File I/O</li>
-<li>Writing CSV files</li>
-<li>Creating and filling folders for drafts</li>
-<li>- Sending email with Python</li>
-<li>SMTP with Gmail and app password</li>
-<li>MIMEText for simple text emails</li>
-<li>- Security</li>
-<li>Moving credentials out of the code into .env</li>
-<li>- Project structure</li>
-<li>Reusable functions</li>
-<li>Separation of search, saving, and sending</li>
+○ Working with REST APIs (GET requests, query parameters, API keys)  
+○ Pagination and stopping conditions  
+○ Handling HTTP status codes (200, 403, 429)  
+○ Writing CSV files and creating draft folders  
+○ Sending email with SMTP and Gmail app passwords  
+○ Moving credentials out of the code into `.env` for security  
+○ Structuring a Python project with reusable functions  
 
 ## Future Improvements
 <li>Add a GUI with Tkinter for a more user-friendly experience</li>
