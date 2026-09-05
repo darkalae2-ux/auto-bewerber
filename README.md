@@ -30,81 +30,51 @@ A Python script that automatically searches for apprenticeship positions and tra
    ```bash
    git clone https://github.com/yourusername/ausbildung-scraper.git
    cd ausbildung-scraper
+---
 
-Usage
-Run the script
-
-
-python script.py
+**Usage**
+Run the script: python script.py
 
 Enter the required information
+- Location (e.g., Berlin, BE, NW)
+- Search term (e.g., Informatiker, Mechatroniker)
 
-Location (e.g., Berlin, BE, NW)
-
-Search term (e.g., Informatiker, Mechatroniker)
-
-What happens next
-
+**What happens next**
 The script searches both APIs one after the other.
-
 All results are saved to bwb.csv.
-
 For every email address found, a draft is created in the drafts/ folder.
-
 The script asks if you want to send the emails.
-
 If you confirm, each draft is displayed; you decide individually whether to send it.
 
 
-What I Learned
-Working with REST APIs
-
-GET requests with query parameters
-
-Handling API keys in headers
-
+**What I Learned**
+• Working with REST APIs
+• GET requests with query parameters
+• Handling API keys in headers
 Pagination and stopping conditions
-
 Error handling
-
 Understanding HTTP status codes (200, 403, 429)
-
 Preventing crashes when data is missing
-
 File I/O
-
 Writing CSV files
-
 Creating and filling folders for drafts
-
 Sending email with Python
-
 SMTP with Gmail and app password
-
 MIMEText for simple text emails
-
 Security
-
 Moving credentials out of the code into .env
-
 Project structure
-
 Reusable functions
-
 Separation of search, saving, and sending
 
-Future Improvements
+**Future Improvements**
 Add a GUI with Tkinter for a more user-friendly experience
-
 Excel export with formatting
-
 Automatically extract email addresses from job postings
-
 Implement logging for better traceability
-
 Create a configuration file for templates and sender details
 
-Disclaimer
+**Disclaimer**
 This project is for learning purposes only. The APIs of the Bundesagentur für Arbeit are publicly accessible, but their use is subject to their terms. Please handle the data responsibly.
 
    
