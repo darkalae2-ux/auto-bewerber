@@ -48,24 +48,24 @@ Enter the required information
 <li></li>
 
 **What I Learned**
-<li>Working with REST APIs</li>
-<li>• GET requests with query parameters</li>
-<li>• Handling API keys in headers</li>
-<li>•Pagination and stopping conditions</li>
+<li>**Working with REST APIs**</li>
+<li>GET requests with query parameters</li>
+<li>Handling API keys in headers</li>
+<li>Pagination and stopping conditions</li>
 <li>Error handling</li>
-<li>•Understanding HTTP status codes (200, 403, 429)</li>
-<li>•Preventing crashes when data is missing</li>
+<li>- Understanding HTTP status codes (200, 403, 429)</li>
+<li>Preventing crashes when data is missing</li>
 <li>File I/O</li>
-<li>•Writing CSV files</li>
-<li>•Creating and filling folders for drafts</li>
+<li>Writing CSV files</li>
+<li>Creating and filling folders for drafts</li>
 <li>Sending email with Python</li>
-<li>•SMTP with Gmail and app password</li>
-<li>•MIMEText for simple text emails</li>
+<li>SMTP with Gmail and app password</li>
+<li>MIMEText for simple text emails</li>
 <li>Security</li>
-<li>•Moving credentials out of the code into .env</li>
+<li>Moving credentials out of the code into .env</li>
 <li>Project structure</li>
-<li>•Reusable functions</li>
-<li>•Separation of search, saving, and sending</li>
+<li>Reusable functions</li>
+<li>Separation of search, saving, and sending</li>
 
 **Future Improvements**
 Add a GUI with Tkinter for a more user-friendly experience
